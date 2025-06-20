@@ -1,64 +1,83 @@
-<h1 align="center">Hey there! 👋 I'm Ahnaf</h1>
-<h3 align="center">Backend Developer • Python • Django • Flask • REST API</h3>
+<!-- GitHub Profile README for Ahnaf -->
+
+<h1 align="center">Hi there, I'm Ahnaf! 👋</h1>
+<h3 align="center">Backend Developer | Python | Django | Flask | REST API</h3>
 
 ---
 
 <p align="center">
-  💻 Passionate about building real-world backend systems <br/>
-  🎯 Focused on async remote work & developer freedom <br/>
-  📈 On a mission to grow from junior to high-impact engineer 🚀
+  <img src="https://skillicons.dev/icons?i=python,django,flask,postgresql,git,github" alt="Tech Stack Icons" /><br>
+  <em>"Turning backend code into real-world solutions."</em>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-- 🎓 Certified by **Harvard CS50P (Introduction to Programming with Python)**
-- 🔧 Built full-featured backend apps using **Django**, **Flask**, **REST APIs**
-- 📦 Strong understanding of **JWT Auth**, **Role-based Access**, and **PostgreSQL**
-- 🌐 Deployed projects using **Render**, **Railway**, **Gunicorn**
-- 🧑‍💻 Currently looking for a **remote async backend role** (entry-level)
-
----
-
-## 🔨 Projects
-
-### 📌 Freelancer Marketplace Backend (Django + DRF)  
-A scalable backend API for a freelance platform like Upwork or Fiverr  
-> **Features**: JWT auth, client/freelancer roles, job posting, application flow  
-> **Stack**: Django, DRF, PostgreSQL, Railway  
-> _Status: Final deployment fixes in progress_  
-🔗 [GitHub Repo](https://github.com/itsahnafarafat/Freelancer-Marketplace-Backend-With-Django)
+- 🎓 Certified by **Harvard CS50P** (Python Programming)
+- 🧰 Skilled in **Django**, **Flask**, **DRF**, **PostgreSQL**, **JWT**, and **REST APIs**
+- ⚙️ Passionate about backend system architecture and deployment
+- 🏢 Seeking a **full-time async remote role** as a Python Backend Developer
+- 🛠️ Building scalable apps with secure authentication and clean modular design
+- 🧩 I love solving real-world problems through code and developer-first architecture
 
 ---
 
-### 📌 JobFinder Admin Panel (Flask + PostgreSQL)  
-Admin dashboard for managing job listings with secure auth and modular structure  
-> **Features**: Flask-Login, Flask-WTF, SQLAlchemy, Admin CLI  
-> **Stack**: Flask, PostgreSQL, Alembic, Gunicorn, Render  
-> _Status: Deployment in progress_  
-🔗 [GitHub Repo](https://github.com/itsahnafarafat/Website)
+## 🧠 Projects
+
+### 📌 Freelancer Marketplace API  
+> A production-ready backend API for a freelance platform like Upwork. Built with Django + DRF.  
+> Includes JWT authentication, client/freelancer roles, job/apply system, PostgreSQL.  
+> _Deployment in progress._
+
+🔗 [View Repo](https://github.com/itsahnafarafat/Freelancer-Marketplace-Backend-With-Django)
 
 ---
 
-## ⚙️ Tech Stack
+### 📌 JobFinder Admin Panel  
+> Flask-based admin dashboard for managing job posts. Modular architecture, secure login, CLI admin.
+> PostgreSQL, Flask-Login, Flask-WTF, SQLAlchemy. _Final deployment fixes underway._
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+🔗 [View Repo](https://github.com/itsahnafarafat/Website)
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🧰 Tech Stack
+
+```text
+Languages     : Python, SQL, HTML
+Frameworks    : Django, Flask, DRF
+Database      : PostgreSQL, SQLite
+Tools & Auth  : Git, GitHub, JWT, Alembic, Gunicorn
+Deployment    : Railway, Render
+```
+
+---
+
+## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ahnaf-arafat-30189a357/)
-- 🌐 [Portfolio](https://github.com/itsahnafarafat)
+- 📂 [GitHub Portfolio](https://github.com/itsahnafarafat)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=33F7FF&center=true&vCenter=true&width=435&lines=Backend+Engineer+%7C+Python+%7C+Django+%7C+Flask;Async+Team+Player+Ready+to+Join;Clean%2C+Modular+Code+%E2%9C%85"/>
+</p>
 
 ---
 
 <p align="center">
-  💡 “Backend is where real products are built. I love crafting clean logic and scalable systems.”  
+  "Backend is where the real product is built. I focus on writing code that performs, scales, and lasts."
 </p>
+
+---
 
