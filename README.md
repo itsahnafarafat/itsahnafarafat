@@ -47,7 +47,7 @@
 > Includes Swagger documentation and clean RESTful design.  
 > _Perfect for trial tasks and real-world backend interviews._
 
-🔗 [View Repo](https://github.com/itsahnafarafat/Simple-E-Commerce-Backend-with-Django-DRF)
+🔗 [View Repo](https://github.com/itsahnafarafat/-Simple-E-Commerce-Backend-with-Django-DRF-)
 
 ---
 
