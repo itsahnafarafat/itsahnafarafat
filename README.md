@@ -41,7 +41,7 @@
 🔗 [View Repo](https://github.com/itsahnafarafat/Website)
 
 ---
-### 📌 🔥 Simple E-Commerce Backend API  
+### 📌 Simple E-Commerce Backend API  
 > A production-ready backend API for managing products, carts, and orders.  
 > Built with Django & DRF, it features JWT auth, admin-only product controls, search/filtering, and checkout logic.  
 > Includes Swagger documentation and clean RESTful design.  
