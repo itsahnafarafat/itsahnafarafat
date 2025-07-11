@@ -49,6 +49,19 @@
 
 🔗 [View Repo](https://github.com/itsahnafarafat/-Simple-E-Commerce-Backend-with-Django-DRF-)
 
+
+---
+
+### 📌 Job Board API
+
+> A production-ready RESTful API backend for job listings and company profiles.
+> Built with Django & DRF, it features JWT authentication, admin/company job posting logic, and clean modular structure.
+> Includes filtering, pagination, nested serializers, and Swagger documentation.
+> *Ideal for job trial tasks and showcasing real-world backend development.*
+
+🔗 [View Repo](https://github.com/itsahnafarafat/Job-Board-API-With-Django-DRF)
+
+
 ---
 
 ## 🧰 Tech Stack
