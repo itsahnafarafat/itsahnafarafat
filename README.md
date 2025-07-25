@@ -86,7 +86,7 @@ Deployment    : Railway, Render
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/ahnaf-arafat-30189a357/)
+- [LinkedIn](https://www.linkedin.com/in/ahnaf-arafat-211687375/)
 - [GitHub Portfolio](https://github.com/itsahnafarafat)
 
 
