@@ -32,6 +32,8 @@
 > _Focused on real-world subscription management and clean RESTful design._
 
 🔗 [View Repo](https://github.com/itsahnafarafat/SaaS-Billing-API)
+🔴 [Live Demo](https://saas-billing-api-production.up.railway.app/api/billing/plans/)
+🔴 [Live Demo](https://saas-billing-api-production.up.railway.app/api/billing/payments/)
 
 ---
 
