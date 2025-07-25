@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for Ahnaf -->
 
-<h1 align="center">Hi there, I'm Ahnaf! 👋</h1>
+<h1 align="center">Hi there, I'm Ahnaf</h1>
 <h3 align="center">Backend Developer | Python | Django | Flask | REST API</h3>
 
 ---
@@ -12,20 +12,30 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Certified by **Harvard CS50P** (Python Programming)
-- 🧰 Skilled in **Django**, **Flask**, **DRF**, **PostgreSQL**, **JWT**, and **REST APIs**
-- ⚙️ Passionate about backend system architecture and deployment
-- 🏢 Seeking a **full-time async remote role** as a Python Backend Developer
-- 🛠️ Building scalable apps with secure authentication and clean modular design
-- 🧩 I love solving real-world problems through code and developer-first architecture
+- Certified by **Harvard CS50P** (Python Programming)
+- Skilled in **Django**, **Flask**, **DRF**, **PostgreSQL**, **JWT**, and **REST APIs**
+- Passionate about backend system architecture and deployment
+- Seeking a **full-time async remote role** as a Python Backend Developer
+- Building scalable apps with secure authentication and clean modular design
+- I love solving real-world problems through code and developer-first architecture
 
 ---
 
-## 🧠 Projects
+## Projects
 
-### 📌 Freelancer Marketplace API  
+### SaaS Billing API System
+> A production-ready SaaS billing API backend for subscription-based services.  
+> Built with Django, DRF, and FastAPI. Handles plans, subscriptions, invoices, and payments with secure endpoints.  
+> Deployed on **Railway** with fully functional public API routes.  
+> _Focused on real-world subscription management and clean RESTful design._
+
+🔗 [View Repo](https://github.com/itsahnafarafat/SaaS-Billing-API)
+
+---
+
+### Freelancer Marketplace API  
 > A production-ready backend API for a freelance platform like Upwork. Built with Django + DRF.  
 > Includes JWT authentication, client/freelancer roles, job/apply system, PostgreSQL.  
 > _Deployment in progress._
@@ -34,14 +44,15 @@
 
 ---
 
-### 📌 JobFinder Admin Panel  
-> Flask-based admin dashboard for managing job posts. Modular architecture, secure login, CLI admin.
+### JobFinder Admin Panel  
+> Flask-based admin dashboard for managing job posts. Modular architecture, secure login, CLI admin.  
 > PostgreSQL, Flask-Login, Flask-WTF, SQLAlchemy. _Final deployment fixes underway._
 
 🔗 [View Repo](https://github.com/itsahnafarafat/Website)
 
 ---
-### 📌 Simple E-Commerce Backend API  
+
+### Simple E-Commerce Backend API  
 > A production-ready backend API for managing products, carts, and orders.  
 > Built with Django & DRF, it features JWT auth, admin-only product controls, search/filtering, and checkout logic.  
 > Includes Swagger documentation and clean RESTful design.  
@@ -49,22 +60,19 @@
 
 🔗 [View Repo](https://github.com/itsahnafarafat/-Simple-E-Commerce-Backend-with-Django-DRF-)
 
-
 ---
 
-### 📌 Job Board API
-
-> A production-ready RESTful API backend for job listings and company profiles.
-> Built with Django & DRF, it features JWT authentication, admin/company job posting logic, and clean modular structure.
-> Includes filtering, pagination, nested serializers, and Swagger documentation.
-> *Ideal for job trial tasks and showcasing real-world backend development.*
+### Job Board API
+> A production-ready RESTful API backend for job listings and company profiles.  
+> Built with Django & DRF, it features JWT authentication, admin/company job posting logic, and clean modular structure.  
+> Includes filtering, pagination, nested serializers, and Swagger documentation.  
+> _Ideal for job trial tasks and showcasing real-world backend development._
 
 🔗 [View Repo](https://github.com/itsahnafarafat/Job-Board-API-With-Django-DRF)
 
-
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ```text
 Languages     : Python, SQL, HTML
@@ -76,10 +84,10 @@ Deployment    : Railway, Render
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ahnaf-arafat-30189a357/)
-- 📂 [GitHub Portfolio](https://github.com/itsahnafarafat)
+- [LinkedIn](https://www.linkedin.com/in/ahnaf-arafat-30189a357/)
+- [GitHub Portfolio](https://github.com/itsahnafarafat)
 
 
 ---
