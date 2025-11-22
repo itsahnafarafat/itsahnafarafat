@@ -41,6 +41,7 @@
 🔗 [Live Demo](https://estateleadpro.vercel.app/) • 📱 Fully Responsive
 
 **Note: User dashboard features currently being enhanced with additional functionality.**
+
 ---
 
 ### Crackresume - AI-Powered Job Application Platform
