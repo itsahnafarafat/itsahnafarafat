@@ -23,6 +23,25 @@
 
 ## 🚀 Featured Projects
 
+
+### EstateLead Pro - Real Estate Platform
+> A modern, full-featured real estate platform with advanced search, interactive maps, and virtual property tours.
+
+**Key Features:**
+- **Property Listings** - Detailed pages with images, pricing, specifications
+- **Advanced Search & Filtering** - Price range, property type, amenities
+- **Interactive Map View** - Mapbox integration with clickable pins
+- **360° Virtual Tours** - Immersive property tours with navigation
+- **User Accounts & Authentication** - Firebase-powered login system
+- **Inquiry System** - Property contact forms
+- **Fully Responsive** - Modern UI, works on all devices
+
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Firebase, Mapbox, ShadCN UI
+
+🔗 [Live Demo](https://estateleadpro.vercel.app/) • 📱 Fully Responsive
+
+---
+
 ### Crackresume - AI-Powered Job Application Platform
 > A comprehensive web application that helps job seekers optimize resumes and track applications using AI.
 
@@ -37,23 +56,6 @@
 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Firebase, Google Gemini AI, Genkit
 
 🔗 [Live Demo](https://crackresume.vercel.app/) • 📱 Fully Responsive
-
----
-
-### EstateLead Pro - Real Estate Platform
-> A modern, full-featured real estate platform with advanced search, interactive maps, and virtual property tours.
-
-**Key Features:**
-- Property listings with advanced search & filtering
-- Interactive map view powered by Mapbox with clickable property pins
-- 360° virtual tours with Pannellum integration
-- User accounts with favorites system (save/manage properties)
-- Inquiry forms for property contact
-- Fully responsive design with modern UI (ShadCN UI + Tailwind)
-
-**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Firebase, Mapbox, ShadCN UI, Pannellum
-
-🔗 [Live Demo](https://estateleadpro.vercel.app/) • 📱 Fully Responsive
 
 ---
 
