@@ -40,6 +40,7 @@
 
 🔗 [Live Demo](https://estateleadpro.vercel.app/) • 📱 Fully Responsive
 
+*Note: User dashboard features currently being enhanced with additional functionality.*
 ---
 
 ### Crackresume - AI-Powered Job Application Platform
@@ -56,6 +57,8 @@
 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Firebase, Google Gemini AI, Genkit
 
 🔗 [Live Demo](https://crackresume.vercel.app/) • 📱 Fully Responsive
+
+**⚠️ Project Status: Currently Under Maintenance**
 
 ---
 
