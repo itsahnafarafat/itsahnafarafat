@@ -1,103 +1,121 @@
-<!-- GitHub Profile README for Ahnaf -->
-
 <h1 align="center">Hi there, I'm Ahnaf</h1>
-<h3 align="center">Backend Developer | Python | Django | Flask | REST API</h3>
+<h3 align="center">Full-Stack Developer | Next.js • React • AI Integration</h3>
 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,postgresql,git,github" alt="Tech Stack Icons" /><br>
-  <em>"Turning backend code into real-world solutions."</em>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,firebase,python,postgresql,git" alt="Tech Stack Icons" /><br>
+  <em>"Building production-ready web applications with modern tech and AI integration."</em>
 </p>
 
 ---
 
 ## About Me
 
+- Full-stack developer specializing in **Next.js**, **React**, and **AI-powered web applications**
+- Expert in Firebase, TypeScript, and modern frontend architecture
+- Backend capabilities with **Python**, **Django**, and **REST APIs**
 - Certified by **Harvard CS50P** (Python Programming)
-- Skilled in **Django**, **Flask**, **DRF**, **PostgreSQL**, **JWT**, and **REST APIs**
-- Passionate about backend system architecture and deployment
-- Seeking a **full-time async remote role** as a Python Backend Developer
-- Building scalable apps with secure authentication and clean modular design
-- I love solving real-world problems through code and developer-first architecture
+- Available for **white-label development partnerships** with agencies
+- Focused on delivering modern, production-ready solutions with clean, maintainable code
 
 ---
 
-## Projects
+## 🚀 Featured Projects
 
-### SaaS Billing API System
-> A production-ready SaaS billing API backend for subscription-based services.  
-> Built with Django, DRF, and FastAPI. Handles plans, subscriptions, invoices, and payments with secure endpoints.  
-> Deployed on **Railway** with fully functional public API routes.  
-> _Focused on real-world subscription management and clean RESTful design._
+### Crackresume - AI-Powered Job Application Platform
+> A comprehensive web application that helps job seekers optimize resumes and track applications using AI.
 
-🔗 [View Repo](https://github.com/itsahnafarafat/SaaS-Billing-API)
-🔗 [View Repo](https://github.com/ahnafarafat/saas-billing-api)
-🔴 [Live Demo](https://saas-billing-api-production.up.railway.app/api/billing/plans/)
-🔴 [Live Demo](https://saas-billing-api-production.up.railway.app/api/billing/payments/)
+**Key Features:**
+- AI-powered resume optimization with ATS scoring (Google Gemini integration)
+- Job match analysis and automated cover letter generation
+- Integrated job application tracker with user dashboard
+- Firebase Authentication & Firestore database
+- Subscription tiers with Lemon Squeezy integration
+- Learning hub with blog posts and expert guides
 
----
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Firebase, Google Gemini AI, Genkit
 
-### Freelancer Marketplace API  
-> A production-ready backend API for a freelance platform like Upwork. Built with Django + DRF.  
-> Includes JWT authentication, client/freelancer roles, job/apply system, PostgreSQL.  
-> _Deployment in progress._
-
-🔗 [View Repo](https://github.com/itsahnafarafat/Freelancer-Marketplace-Backend-With-Django)
+🔗 [Live Demo](https://crackresume.vercel.app/) • 📱 Fully Responsive
 
 ---
 
-### JobFinder Admin Panel  
-> Flask-based admin dashboard for managing job posts. Modular architecture, secure login, CLI admin.  
-> PostgreSQL, Flask-Login, Flask-WTF, SQLAlchemy. _Final deployment fixes underway._
+### EstateLead Pro - Real Estate Platform
+> A modern, full-featured real estate platform with advanced search, interactive maps, and virtual property tours.
 
-🔗 [View Repo](https://github.com/itsahnafarafat/Website)
+**Key Features:**
+- Property listings with advanced search & filtering
+- Interactive map view powered by Mapbox with clickable property pins
+- 360° virtual tours with Pannellum integration
+- User accounts with favorites system (save/manage properties)
+- Inquiry forms for property contact
+- Fully responsive design with modern UI (ShadCN UI + Tailwind)
 
----
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Firebase, Mapbox, ShadCN UI, Pannellum
 
-### Simple E-Commerce Backend API  
-> A production-ready backend API for managing products, carts, and orders.  
-> Built with Django & DRF, it features JWT auth, admin-only product controls, search/filtering, and checkout logic.  
-> Includes Swagger documentation and clean RESTful design.  
-> _Perfect for trial tasks and real-world backend interviews._
-
-🔗 [View Repo](https://github.com/itsahnafarafat/-Simple-E-Commerce-Backend-with-Django-DRF-)
-
----
-
-### Job Board API
-> A production-ready RESTful API backend for job listings and company profiles.  
-> Built with Django & DRF, it features JWT authentication, admin/company job posting logic, and clean modular structure.  
-> Includes filtering, pagination, nested serializers, and Swagger documentation.  
-> _Ideal for job trial tasks and showcasing real-world backend development._
-
-🔗 [View Repo](https://github.com/itsahnafarafat/Job-Board-API-With-Django-DRF)
+🔗 [Live Demo](https://estateleadpro.vercel.app/) • 📱 Fully Responsive
 
 ---
 
-## Tech Stack
-
+## 🛠️ Tech Stack
 ```text
-Languages     : Python, SQL, HTML
-Frameworks    : Django, Flask, DRF
-Database      : PostgreSQL, SQLite
-Tools & Auth  : Git, GitHub, JWT, Alembic, Gunicorn
-Deployment    : Railway, Render
+Frontend      : Next.js, React, TypeScript, Tailwind CSS, ShadCN UI
+Backend       : Python, Django, Node.js, Firebase
+Database      : Firebase Firestore, PostgreSQL
+AI/ML         : Google Gemini AI, Genkit
+APIs & Tools  : Mapbox, Pannellum, Lemon Squeezy, Firebase Auth
+Deployment    : Vercel, Railway
 ```
 
 ---
 
-## Let's Connect
+## 💡 What I Build for Agencies
 
-- [LinkedIn](https://www.linkedin.com/in/ahnaf-arafat-211687375/)
-- [GitHub Portfolio](https://github.com/itsahnafarafat)
+**Custom Web Applications:**
 
+✅ **AI-Powered Platforms** - Resume tools, smart analytics, chatbots  
+✅ **Real Estate Solutions** - Property platforms, virtual tours, interactive maps, CRM systems  
+✅ **SaaS Applications** - Subscription management, user dashboards, payment integration  
+✅ **Marketplace Platforms** - Multi-user systems, booking systems, directory sites  
+✅ **Business Websites** - Modern landing pages, portfolio sites, corporate websites  
+
+**Specialized in:**
+- Modern React/Next.js applications
+- AI integration (Google Gemini, OpenAI APIs)
+- Firebase & database architecture
+- Payment systems (Lemon Squeezy)
+- Map integrations (Mapbox, Google Maps)
+- Responsive, mobile-first design
+- Fast deployment & iteration
+
+---
+
+## 🤝 Working With Me
+
+- **White-label partnerships** - Your brand, my development
+- **Fast turnaround** - Modern tech stack means efficient delivery
+- **Clean, maintainable code** - Built for handoff and future updates
+- **Available capacity** - 2-3 projects per month
+- **Communication** - Regular updates, collaborative process
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahnaf-arafat-211687375/)
+- 🌐 **Portfolio:** Live projects featured above
+- 📧 **Open for:** Agency partnerships & custom web development
+- 💬 **Best for:** Next.js/React projects, AI integration, SaaS platforms
 
 ---
 
 <p align="center">
-  "Backend is where the real product is built. I focus on writing code that performs, scales, and lasts."
+  <strong>"I build production-ready web applications that solve real problems."</strong><br>
+  From AI integration to real estate platforms, I deliver modern solutions that work.
 </p>
 
 ---
 
+<p align="center">
+  <sub>⭐ Check out my pinned repositories to see the code behind these projects</sub>
+</p>
