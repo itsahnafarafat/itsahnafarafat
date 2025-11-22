@@ -30,13 +30,12 @@
 **Key Features:**
 - **Property Listings** - Detailed pages with images, pricing, specifications
 - **Advanced Search & Filtering** - Price range, property type, amenities
-- **Interactive Map View** - Mapbox integration with clickable pins
 - **360° Virtual Tours** - Immersive property tours with navigation
 - **User Accounts & Authentication** - Firebase-powered login system
 - **Inquiry System** - Property contact forms
 - **Fully Responsive** - Modern UI, works on all devices
 
-**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Firebase, Mapbox, ShadCN UI
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Firebase, ShadCN UI
 
 🔗 [Live Demo](https://estateleadpro.vercel.app/) • 📱 Fully Responsive
 
@@ -69,7 +68,7 @@ Frontend      : Next.js, React, TypeScript, Tailwind CSS, ShadCN UI
 Backend       : Python, Django, Node.js, Firebase
 Database      : Firebase Firestore, PostgreSQL
 AI/ML         : Google Gemini AI, Genkit
-APIs & Tools  : Mapbox, Pannellum, Lemon Squeezy, Firebase Auth
+APIs & Tools  : Pannellum, Lemon Squeezy, Firebase Auth
 Deployment    : Vercel, Railway
 ```
 
